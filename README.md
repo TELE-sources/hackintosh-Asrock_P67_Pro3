@@ -9,3 +9,5 @@ NVIDIA GeForce GT 710 .
 Memory  Size:	16 GB (4*4)
         Type:	DDR3
         Speed:	1600 MHz
+        
+PlatformInfo : MacPro6,1 (need MOD)   .    
