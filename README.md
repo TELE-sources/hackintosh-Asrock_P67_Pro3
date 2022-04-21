@@ -1,4 +1,4 @@
-# hackintosh-asrock_67_pro3
+# hackintosh-OpenCore-asrock_67_pro3
 macOS Monterey Version 12.3.1
 OpenCore-0.8.1-RELEASE.
 
