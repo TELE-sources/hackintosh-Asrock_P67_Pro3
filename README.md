@@ -13,6 +13,9 @@ Memory  Size:	16 GB (4*4)
         
 PlatformInfo : MacPro6,1 (need MOD)   .    
 
+![Screenshot 2022-04-21 at 10 36 24](https://user-images.githubusercontent.com/58649723/164426613-e9e36adc-bf86-469a-a429-39ac661331b2.png)
+
+
 
 ![Screenshot 2022-04-21 at 07 07 57](https://user-images.githubusercontent.com/58649723/164385921-0ddf1f7b-a5bd-4649-a854-171f86881d82.png)
 
